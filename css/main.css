@@ -346,7 +346,7 @@ img {
   font-size: 1rem;
   text-transform: capitalize;
   color: var(--anti-flash-white);
-  background-color:#222222;
+  background-color:#222222ab;
   padding-left: 15px;
 }
 
@@ -377,21 +377,21 @@ img {
 }
 
 .top-stories .headline-1 {
-  background: url(../images/politics1.jpg);
+  background: url(../images/aaa_champions.webp);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .top-stories .headline-2 {
-  background: url(../images/politics3.jpg);
+  background: url(../images/aaa_bilancio.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .top-stories .headline-3 {
-  background: url(../images/politics6.jpg);
+  background: url(../images/aaa_festa.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
